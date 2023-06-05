@@ -2,3 +2,8 @@
 
 - pip install mmaction2
 - pip install mmcv
+<p align = "center">
+  <img width = "500" src = "https://github.com/skdytpq/capstone/blob/main/exp/Contrast1.png?raw=True">
+  <br>
+  그림 
+</p>
